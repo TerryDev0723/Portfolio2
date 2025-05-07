@@ -23,7 +23,7 @@ export default function Hero() {
       <div className="relative flex flex-col flex-1 justify-center items-center">
         {/* <div className="z-10">
             <Image
-              src="/avatar.jfif"
+              src="/avatar.jpg"
               alt="Michael Terry"
               width={300}
               height={300}
@@ -35,7 +35,7 @@ export default function Hero() {
             className="object-contain"
             fill
             sizes="100vw"
-            src={"/avatar.jfif"}
+            src={"/avatar.jpg"}
             alt="hero-image"
             priority
           ></Image>

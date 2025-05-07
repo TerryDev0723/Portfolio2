@@ -57,7 +57,7 @@ interface Social {
 const resumeContent: Content = {
   name: "Michael Terry",
   title: "AI Developer, Software Engineer, Full Stack Developrer",
-  image: "/avatar.jfif",
+  image: "/avatar.jpg",
   education_list: [
     {
       course: "Bachelor of Computer Science (Software Engineer)",
